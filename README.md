@@ -17,37 +17,6 @@ Welcome to the **Blood Donation App**! This app helps users determine if they ar
 - ✅ **Eligibility Check:** Instantly know if you're eligible to donate blood.
 - 🔧 **Django Forms:** Utilized for efficient data handling and validation.
 
-## 💻 Installation
-
-To get started with the Blood Donation App, follow these steps:
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/yourusername/blood-donation-app.git
-    cd blood-donation-app
-    ```
-
-2. **Create and activate a virtual environment:**
-
-    ```bash
-    python -m venv env
-    source env/bin/activate  # On Windows use `env\Scripts\activate`
-    ```
-
-3. **Install the required dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Run the Django development server:**
-
-    ```bash
-    python manage.py runserver
-    ```
-
-5. Open your browser and navigate to `http://127.0.0.1:8000` to start using the app! 🌐
 
 ## 🛠️ Usage
 
@@ -55,14 +24,14 @@ To get started with the Blood Donation App, follow these steps:
 2. Enter your **weight**.
 3. Enter your **age**.
 4. Click the **Submit** button to see if you are eligible to donate blood. 🩸
+5. 
+## Open Your Browser and Go To
+https://vitaldonor.pythonanywhere.com/
 
 ## 🤝 Contributing
 
 We welcome contributions to the Blood Donation App! If you have any suggestions or find any issues, please open an issue or submit a pull request on GitHub.
 
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ## 📬 Contact
 
